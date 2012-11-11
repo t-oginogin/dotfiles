@@ -35,7 +35,8 @@
 
  syntax on
 "" set background=dark
- colorscheme github 
+" colorscheme github
+ colorscheme 256-grayvim
 
  set shiftwidth=2
  set tabstop=2                 "two tab spaces
