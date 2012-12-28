@@ -36,7 +36,8 @@
  syntax on
 "" set background=dark
 " colorscheme github
- colorscheme 256-grayvim
+" colorscheme 256-grayvim
+ colorscheme Monokai-Refined
 
  set shiftwidth=2
  set tabstop=2                 "two tab spaces
