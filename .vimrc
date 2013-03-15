@@ -32,6 +32,7 @@
  Bundle 'ujihisa/unite-rake'
  Bundle 'basyura/unite-rails'
  Bundle 'taq/vim-rspec'
+ Bundle 'kchmck/vim-coffee-script'
 
  syntax on
 "" set background=dark
