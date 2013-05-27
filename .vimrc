@@ -19,6 +19,8 @@
  Bundle 'tpope/vim-cucumber'
  Bundle 'tpope/vim-endwise'
  Bundle 'ruby-matchit'
+ Bundle 'git://github.com/hail2u/vim-css3-syntax.git' 
+ Bundle 'git://github.com/bonsaiben/bootstrap-snippets.git'
  " vim-scripts repos
 "" Bundle 'L9'
 "" Bundle 'FuzzyFinder'
