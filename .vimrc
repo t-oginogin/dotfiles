@@ -31,10 +31,13 @@
 " Bundle 'Shougo/neosnippet'
  Bundle 'Shougo/unite.vim'
  Bundle 'Shougo/vimfiler'
+ Bundle 'Shougo/vimproc'
  Bundle 'ujihisa/unite-rake'
  Bundle 'basyura/unite-rails'
  Bundle 'taq/vim-rspec'
  Bundle 'kchmck/vim-coffee-script'
+ Bundle 'thinca/vim-ref'
+ Bundle 'alpaca-tc/alpaca_tags'
 
  syntax on
 "" set background=dark
