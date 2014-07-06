@@ -38,6 +38,7 @@
  Bundle 'kchmck/vim-coffee-script'
  Bundle 'thinca/vim-ref'
  Bundle 'alpaca-tc/alpaca_tags'
+ Bundle 'tomtom/tcomment_vim'
 
  syntax on
 "" set background=dark
