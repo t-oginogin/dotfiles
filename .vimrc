@@ -39,6 +39,7 @@
  Bundle 'thinca/vim-ref'
  Bundle 'alpaca-tc/alpaca_tags'
  Bundle 'tomtom/tcomment_vim'
+ Bundle 'scrooloose/nerdtree'
 
  syntax on
 "" set background=dark
