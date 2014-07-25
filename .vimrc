@@ -34,7 +34,7 @@
  Bundle 'Shougo/vimproc'
  Bundle 'ujihisa/unite-rake'
  Bundle 'basyura/unite-rails'
- Bundle 'taq/vim-rspec'
+ Bundle 'skwp/vim-rspec'
  Bundle 'kchmck/vim-coffee-script'
  Bundle 'thinca/vim-ref'
  Bundle 'alpaca-tc/alpaca_tags'
@@ -45,7 +45,7 @@
 "" set background=dark
 " colorscheme github
 " colorscheme 256-grayvim
- colorscheme Monokai-Refined
+" colorscheme Monokai-Refined
 
  set shiftwidth=2
  set tabstop=2                 "two tab spaces
