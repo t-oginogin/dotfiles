@@ -1,0 +1,9 @@
+[user]
+	name = Tatsuya Ogi
+	email = t.oginogin@gmail.com
+[credential]
+	helper = osxkeychain
+[alias]
+  tr = log --graph --pretty='format:%C(yellow)%h%Creset %s %Cgreen(%an)%Creset %Cred%d%Creset'
+[core]
+	editor = /usr/bin/vim
