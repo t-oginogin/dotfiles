@@ -40,6 +40,7 @@
  Bundle 'alpaca-tc/alpaca_tags'
  Bundle 'tomtom/tcomment_vim'
  Bundle 'scrooloose/nerdtree'
+ Bundle 'slim-template/vim-slim'
 
  syntax on
 "" set background=dark
