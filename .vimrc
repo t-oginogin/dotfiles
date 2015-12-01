@@ -41,6 +41,7 @@
  Bundle 'tomtom/tcomment_vim'
  Bundle 'scrooloose/nerdtree'
  Bundle 'slim-template/vim-slim'
+ Bundle 'git://github.com/ConradIrwin/vim-bracketed-paste.git'
 
  syntax on
 "" set background=dark
