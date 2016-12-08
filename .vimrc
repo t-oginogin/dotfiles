@@ -31,6 +31,7 @@ set shiftwidth=2
 set tabstop=2
 set softtabstop=2
 set expandtab
+set backspace=indent,eol,start
 
 filetype plugin indent on
 syntax enable
